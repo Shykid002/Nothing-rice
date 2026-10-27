@@ -44,7 +44,7 @@ PanelWindow {
             y: 14
             width: 64
             height: parent.height - 28
-            radius: 32
+            radius: 10
             color: Theme.s1
             border { width: 1; color: Theme.s2 }
 
@@ -304,7 +304,7 @@ PanelWindow {
                 id: card
                 width: 440
                 height: body.height + 52
-                radius: 36
+                radius: 10
                 color: Theme.s1
                 border { width: 1; color: Theme.s2 }
                 opacity: pop.t
