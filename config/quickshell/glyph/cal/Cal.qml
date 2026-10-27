@@ -48,7 +48,7 @@ PanelWindow {
             width: 440
             height: col.height + 52
             opacity: root.t
-            radius: 36
+            radius: 10
             color: Theme.s1
             border { width: 1; color: Theme.s2 }
             focus: true
